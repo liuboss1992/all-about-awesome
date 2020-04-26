@@ -7,4 +7,6 @@ A curated list of awesome repositories about deep learning. Powered by [Boss Liu
 # Table of Contents
 
 - Imbalanced Learning
-    -[Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+    - [Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+- Image Inpainting
+    - [Image Inpainting](https://github.com/geekyutao/Image-Inpainting)
