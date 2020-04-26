@@ -1,4 +1,4 @@
-# awesome-deep-learning
+# All about Awesome
 
 [![Awesome](https://awesome.re/badge-flat.svg)](http://home.ustc.edu.cn/~lcb592/)
 
