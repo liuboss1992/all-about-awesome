@@ -20,3 +20,4 @@ A curated list of awesome repositories and tools about deep learning. Powered by
     - [AnchorFreeDetection](https://github.com/VCBE123/AnchorFreeDetection)
 - Medical Imaging
     - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
+    - [SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)
