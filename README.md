@@ -18,6 +18,8 @@ A curated list of awesome repositories and tools about deep learning. Powered by
     - [Image Inpainting](https://github.com/geekyutao/Image-Inpainting)
 - Detection
     - [AnchorFreeDetection](https://github.com/VCBE123/AnchorFreeDetection)
+- others
+    - [Gaze Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation)
 - Medical Imaging
     - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
     - [SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)
