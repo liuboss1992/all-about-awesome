@@ -14,6 +14,7 @@ A curated list of awesome repositories and tools about deep learning. Powered by
 - Image Classification
     - [Awesome - Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
     - [Awesome Zero-Shot Learning](https://github.com/mboboGO/Awesome-Zero-Shot-Learning)
+    - [FewShotPapers](https://github.com/tata1661/FewShotPapers)
 - Image Inpainting
     - [Image Inpainting](https://github.com/geekyutao/Image-Inpainting)
 - Detection
