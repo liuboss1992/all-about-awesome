@@ -9,8 +9,9 @@ A curated list of awesome repositories and tools about deep learning. Powered by
 - Basic Knowledge
     - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
     - [PyTorch-From-Zero-To-One](https://github.com/amusi/PyTorch-From-Zero-To-One)
-- Imbalanced Learning
+- Machine Learning
     - [Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+    - [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 - Image Classification
     - [Awesome - Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
     - [Awesome Zero-Shot Learning](https://github.com/mboboGO/Awesome-Zero-Shot-Learning)
